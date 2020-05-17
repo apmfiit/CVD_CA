@@ -1,0 +1,49 @@
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.exe.config
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.exe
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.pdb
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.csprojResolveAssemblyReference.cache
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\obj\Debug\m_fiit_18_P.Form1.resources
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.csproj.GenerateResource.Cache
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.exe
+c:\users\student.b12\documents\visual studio 2012\Projects\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.pdb
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.exe.config
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.exe
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.pdb
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.csprojAssemblyReference.cache
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\obj\Debug\m_fiit_18_P.Form1.resources
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.csproj.GenerateResource.cache
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.csproj.CoreCompileInputs.cache
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.exe
+C:\Users\APM\Downloads\m-fiit-18-P-20190329T065321Z-001\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.pdb
+C:\Работа\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.exe.config
+C:\Работа\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.exe
+C:\Работа\m-fiit-18-P\m-fiit-18-P\bin\Debug\m-fiit-18-P.pdb
+C:\Работа\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.csprojAssemblyReference.cache
+C:\Работа\m-fiit-18-P\m-fiit-18-P\obj\Debug\m_fiit_18_P.Form1.resources
+C:\Работа\m-fiit-18-P\m-fiit-18-P\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+C:\Работа\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.csproj.GenerateResource.cache
+C:\Работа\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.csproj.CoreCompileInputs.cache
+C:\Работа\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.exe
+C:\Работа\m-fiit-18-P\m-fiit-18-P\obj\Debug\m-fiit-18-P.pdb
+C:\Users\APM\Downloads\m-fiit-18-P-new2\bin\Debug\m-fiit-18-P.exe.config
+C:\Users\APM\Downloads\m-fiit-18-P-new2\bin\Debug\m-fiit-18-P.exe
+C:\Users\APM\Downloads\m-fiit-18-P-new2\bin\Debug\m-fiit-18-P.pdb
+C:\Users\APM\Downloads\m-fiit-18-P-new2\obj\Debug\m-fiit-18-P.csprojAssemblyReference.cache
+C:\Users\APM\Downloads\m-fiit-18-P-new2\obj\Debug\m_fiit_18_P.Form1.resources
+C:\Users\APM\Downloads\m-fiit-18-P-new2\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+C:\Users\APM\Downloads\m-fiit-18-P-new2\obj\Debug\m-fiit-18-P.csproj.GenerateResource.cache
+C:\Users\APM\Downloads\m-fiit-18-P-new2\obj\Debug\m-fiit-18-P.csproj.CoreCompileInputs.cache
+C:\Users\APM\Downloads\m-fiit-18-P-new2\obj\Debug\m-fiit-18-P.exe
+C:\Users\APM\Downloads\m-fiit-18-P-new2\obj\Debug\m-fiit-18-P.pdb
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.exe.config
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.exe
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.pdb
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.csprojAssemblyReference.cache
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.csproj.GenerateResource.cache
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.csproj.CoreCompileInputs.cache
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.exe
+C:\Users\APM\Downloads\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.pdb

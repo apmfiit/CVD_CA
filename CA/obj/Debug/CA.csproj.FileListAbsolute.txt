@@ -1,0 +1,40 @@
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.exe.config
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.exe
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.pdb
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\obj\Debug\CA.csprojAssemblyReference.cache
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\obj\Debug\CA.csproj.GenerateResource.cache
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\obj\Debug\CA.csproj.CoreCompileInputs.cache
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.exe
+C:\Users\APM\Downloads\IMI\Клеточные_автоматы\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.pdb
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.exe.config
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.exe
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.pdb
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\obj\Debug\CA.csprojAssemblyReference.cache
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\obj\Debug\CA.csproj.GenerateResource.cache
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\obj\Debug\CA.csproj.CoreCompileInputs.cache
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.exe
+C:\Users\SPTM\Downloads\imi\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.pdb
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.exe.config
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.exe
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\bin\Debug\m-fiit-18-P.pdb
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\obj\Debug\CA.csprojAssemblyReference.cache
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\obj\Debug\CA.csproj.GenerateResource.cache
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\obj\Debug\CA.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.exe
+C:\Users\Petr\source\repos\m-fiit-18-P-new2 — копия\obj\Debug\m-fiit-18-P.pdb
+C:\Users\Petr\source\repos\CA\bin\Debug\m-fiit-18-P.exe.config
+C:\Users\Petr\source\repos\CA\bin\Debug\m-fiit-18-P.exe
+C:\Users\Petr\source\repos\CA\bin\Debug\m-fiit-18-P.pdb
+C:\Users\Petr\source\repos\CA\obj\Debug\CA.csprojAssemblyReference.cache
+C:\Users\Petr\source\repos\CA\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Petr\source\repos\CA\obj\Debug\m_fiit_18_P.Properties.Resources.resources
+C:\Users\Petr\source\repos\CA\obj\Debug\CA.csproj.GenerateResource.cache
+C:\Users\Petr\source\repos\CA\obj\Debug\CA.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\CA\obj\Debug\m-fiit-18-P.exe
+C:\Users\Petr\source\repos\CA\obj\Debug\m-fiit-18-P.pdb
