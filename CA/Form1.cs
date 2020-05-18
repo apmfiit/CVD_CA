@@ -37,7 +37,7 @@ namespace WindowsFormsApp1
             percent;
 
         Cell[,,] cell = new Cell[N, N, N];
-        Boolean q;
+        Boolean f;
 
         #region
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -146,7 +146,7 @@ namespace WindowsFormsApp1
             //1-h
             if (cell[i, j, k].a == 1)
             {
-                q = rand.Next(qu);
+                q = rand.Next(qu); // Возвращает неотрицательное случайное целое число, которое меньше указанного максимального значения. qu = 1000
                 if (q < K1)
                 {
                     cell[i, j, k].a = 2;
@@ -981,10 +981,10 @@ namespace WindowsFormsApp1
         }
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
-            q = true;
+            f = true;
             int P, T;
             System.Windows.Forms.Control.CheckForIllegalCrossThreadCalls = false;
-            while (q)
+            while (f)
             {
                 P = trackBar2.Value;
                 T = trackBar3.Value;
@@ -1023,7 +1023,7 @@ namespace WindowsFormsApp1
         }
         private void button3_Click(object sender, EventArgs e)
         {
-            q = false;
+            f = false;
         }
 
         private void button1_Click(object sender, EventArgs e)
