@@ -15,7 +15,6 @@ namespace WindowsFormsApp1
 
         public Form1()
         {
-            //TEST; TEST 2
             InitializeComponent();
         }
 
@@ -83,17 +82,17 @@ namespace WindowsFormsApp1
 
         private void trackBar3_Scroll(object sender, EventArgs e)
         {
-
+            label8.Text = String.Format("Значение: {0}", trackBar3.Value);
         }
 
         private void trackBar2_Scroll(object sender, EventArgs e)
         {
-
+            label7.Text = String.Format("Значение: {0}", trackBar2.Value);
         }
 
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
-
+            label3.Text = String.Format("Значение: {0}", trackBar1.Value);
         }
 
         private void label6_Click(object sender, EventArgs e)
@@ -114,7 +113,7 @@ namespace WindowsFormsApp1
             pictureBox3.Refresh();
             pictureBox4.Refresh();
             label1.Text = "Step  " + count++;
-            int i, j,k;
+            int i, j, k;
 
             for (i = 0; i < N; i++)
                 for (j = 0; j < N; j++)
@@ -122,6 +121,7 @@ namespace WindowsFormsApp1
                         cell[i, j,k] = new Cell(0);
             for (i = 1; i < N - 1; i++)
                 for (j = 1; j < N - 1; j++)
+                    //for (k = 0; k < N - 1; k++)
                 {
                     cell[i, j, 0].a = 1;
                     //cell[i, j, 0].a = 7;
@@ -896,14 +896,16 @@ namespace WindowsFormsApp1
             SolidBrush pen5 = new SolidBrush(Color.Orange);
             SolidBrush pen6 = new SolidBrush(Color.LightBlue);
 
-            int i, j,k=0,z=0;
+            int i, j,
+                k = 0, 
+                z = 0;
 
             for (i = 0; i < N; i++)
             {
                 for (j = 0; j < N; j++)
                 {
-                    if (j % 2 != 0) z = pictureBox1.Width / 3 / N + 1;
-                    if (!cl)
+                    if (j%2 != 0) z = pictureBox1.Width / 3 / N + 1; // если j нечетное число.
+                    if (!cl) // если галочка "Чистые углероды" не проставлена.
                     {
                         if (cell[i, j, k].a == 1)
                             g.FillEllipse(pen, i * pictureBox1.Width / N + z, j * pictureBox1.Width / N, pictureBox1.Width * 2 / 3 / N, pictureBox1.Width * 2 / 3 / N);
@@ -964,21 +966,25 @@ namespace WindowsFormsApp1
                         g3.FillEllipse(pen6, i * pictureBox4.Width / N + z, j * pictureBox4.Width / N, pictureBox4.Width * 2 / 3 / N, pictureBox4.Width * 2 / 3 / N);
 
                     z = 0;
+                    // i * pictureBox1.Width / N + z; - координата X
+                    // j * pictureBox1.Width / N; - координата Y
+                    // pictureBox1.Width * 2 / 3 / N; - ширина ограничивающего прямоугольника  
+                    // pictureBox1.Width * 2 / 3 / N; - высота ограничивающего прямоугольника
                 }
             }
         }
         
-        public void concentrate(double n, double E, double nn,double K)
+        public void concentrate(double n, double E, double nn, double K)
         {
             n = n * Math.Exp(-kk * count * Math.Exp(-E / R * T));
             K = (nn - n) / count;
             label2.Refresh();
         }
         
-        public double speed(double E,double K,double n)
+        public double speed(double E, double K, double n)
         {
             double ar = N;
-             return K = kk * Math.Exp(-E / R / T)*n/ar/ar/ 1000000000 / 1000000000 / 1000000000 / 1000;
+             return K = kk * Math.Exp(-E / R / T) * n / ar / ar / 1000000000 / 1000000000 / 1000000000 / 1000;
         }
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
@@ -1040,7 +1046,7 @@ namespace WindowsFormsApp1
             n2 = p2 / T / kb;
             nn1 = n1;
             nn2 = n2;
-            int.TryParse(textBox2.Text, out sh); // парсит значение textBox2 в sh;
+            int.TryParse(textBox2.Text, out sh); // парсит значение textBox2 в sh; шаг?
             cl = checkBox1.Checked; // clear - чистые углероды
             firstStep(); // запускаем Шаг 1;
             showMatrix(); // рисуем матрицы?
@@ -1056,10 +1062,9 @@ namespace WindowsFormsApp1
 
         }
 
-        private async void button2_Click(object sender, EventArgs e)
+        private async void Button2_Click(object sender, EventArgs e)
         {
-            backgroundWorker1.RunWorkerAsync();
-           
+            await Task.Run(() => backgroundWorker1.RunWorkerAsync());
         }
     }
     public class Cell
